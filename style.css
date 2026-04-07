@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+  margin: 83px 0 0 35px;
+}
+
+h1 {
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 30px;
+  margin: 0 0 48px 0;
+}
+
+span{
+  position: absolute;
+  background-color: #ffd338;
+  height: 5px;
+  width: 45px;
+  margin: -52px 0 0 52px;
+}
+
+input[type=email], input[type=password]{
+  background-color: #161616;
+  width: 290px;
+  height: 45px;
+  border: none;
+  border-radius: 20px;
+  display: block;
+  margin: 0 0 20px 0;
+  padding: 15px;
+  color: #ffffff;
+}
+
+#lembrar {
+  display: inline-block;
+  margin: 0 0 0 5px;
+  font-family: "Inter";
+  font-size: 12px;
+}
+
+#esqueceu{
+  color:#ffd338;
+  text-decoration: none;
+  font-family: "Inter";
+  font-size: 12px;
+  margin: 0 0 0 50px;
+}
+
+button{
+  display: block;
+  width: 294px;
+  height: 40px;
+  background-color: #ffd338;
+  border-radius: 20px;
+  border: none;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 500;
+  margin: 40px 0 0 0;
+}
+
