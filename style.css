@@ -65,3 +65,26 @@ button{
   margin: 40px 0 0 0;
 }
 
+#linha {
+  all: unset;
+  background-color: #ffffff;
+  width: 113px;
+  height: 2px;
+}
+
+div {
+  display: flex;
+  margin: 60px 0 0 0;
+  gap: 27px;
+  align-items: center;
+}
+
+#redes{
+  display: inline-block;
+  background-color: #161616;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 48px 32px 0 0;
+}
